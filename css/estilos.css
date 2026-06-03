@@ -11,7 +11,7 @@
   padding: 20px;
 }
 .conteudo__paragrafo {
-  font-size: 18px;
+  font-size: 16px;
 }
 .conteudo__link {
   color: #007bff;
@@ -22,4 +22,3 @@
 }
 
 /*# sourceMappingURL=estilos.css.map */
-/* sass sass/estilos.scss:css/estilos.css <--- ESSE FOI O COMANDO QUE USEI PARA CRIAR O CSS COM O SASS */
